@@ -11,4 +11,6 @@
     <string name="qFindResources">Do zasobow aplikacji odnosimy sie po nazwach</string>
     <string name="correct_answer">Correct!</string>
     <string name="incorrect_answer">Incorrect!</string>
+    <string name="answer_was_shown">Answer Revealed</string>
+    <string name="hint">Hint</string>
 </resources>
