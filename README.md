@@ -14,6 +14,7 @@ Po naciśnięciu przycisku "Home"; metody: onPause, onStop;
 Po powrocie z listy ostatnio otwartych aplikacji; metody: onStart, onResume;
 
 Po zmianie orientacji ekranu; metody: onPause, onStop, onDestroy, onCreate, onStart, onResume;
+
 	Po dodaniu zachowania indeksu: -||-
   
   
