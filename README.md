@@ -4,7 +4,7 @@
 
 
 
-##LOGCAT OUTPUT
+## LOGCAT OUTPUT
 
 Przy pierwszym włączeniu; metody: onCreate, onStart, onResume;
 
@@ -22,6 +22,6 @@ Po dodaniu zachowania indeksu: -||-
   
   
   
-###SAMPLE LOGCAT CONSOLE VIEW
+### SAMPLE LOGCAT CONSOLE VIEW
 
 ![LogcatRotate](https://user-images.githubusercontent.com/96374042/196057464-6a3c7b82-2918-4c27-bff5-b8913bbb237d.png)
